@@ -21,11 +21,66 @@
 	},
 	"_teams": [
 		{
+			"name": "PAX West",
+			"members": [
+				{
+					"memberName": "Dummy Handle",
+					"memberDate": "0000-00-00",
+					"memberScore": 1,
+					"verifiedBy": "chesamo"
+				}
+			]
+		},
+		{
 			"name": "PAX East",
 			"members": [
 				{
-					"memberName": "chesamo",
-					"memberDate": "2020-08-05",
+					"memberName": "Dummy Handle",
+					"memberDate": "0000-00-00",
+					"memberScore": 1,
+					"verifiedBy": "chesamo"
+				}
+			]
+		},
+		{
+			"name": "PAX South",
+			"members": [
+				{
+					"memberName": "Dummy Handle",
+					"memberDate": "0000-00-00",
+					"memberScore": 1,
+					"verifiedBy": "chesamo"
+				}
+			]
+		},
+		{
+			"name": "PAX East",
+			"members": [
+				{
+					"memberName": "Dummy Handle",
+					"memberDate": "0000-00-00",
+					"memberScore": 1,
+					"verifiedBy": "chesamo"
+				}
+			]
+		},
+		{
+			"name": "PAX Australia",
+			"members": [
+				{
+					"memberName": "Dummy Handle",
+					"memberDate": "0000-00-00",
+					"memberScore": 1,
+					"verifiedBy": "chesamo"
+				}
+			]
+		},
+		{
+			"name": "PAX Unplugged",
+			"members": [
+				{
+					"memberName": "Dummy Handle",
+					"memberDate": "0000-00-00",
 					"memberScore": 1,
 					"verifiedBy": "chesamo"
 				}
