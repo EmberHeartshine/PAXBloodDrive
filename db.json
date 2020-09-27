@@ -10,12 +10,12 @@
 		"contestMode": 2,
 		"sumHeaders": {
 			"headerTeam": "Home PAX",
-			"headerScore": "Donors"
+			"headerScore": "Donations"
 		},
 		"teamHeaders": {
 			"headerMemberName": "Handle",
 			"headerMemberDate": "Last Donated",
-			"headerMemberScore": "# of Donations",
+			"headerMemberScore": "Donations",
 			"headerMemberVerify": "Verified By"
 		}
 	},
