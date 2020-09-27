@@ -1,0 +1,35 @@
+{
+	"_meta": {
+		"version": 2,
+		"date": "2020-09-27",
+		"updatedBy": "chesamo"
+	},
+	"_config": {
+		"pageTitle": "PAX [E] Blood Drive",
+		"includeBranding": true,
+		"contestMode": 2,
+		"sumHeaders": {
+			"headerTeam": "Home PAX",
+			"headerScore": "Donors"
+		},
+		"teamHeaders": {
+			"headerMemberName": "Handle",
+			"headerMemberDate": "Last Donated",
+			"headerMemberScore": "# of Donations",
+			"headerMemberVerify": "Verified By"
+		}
+	},
+	"_teams": [
+		{
+			"name": "PAX East",
+			"members": [
+				{
+					"memberName": "chesamo",
+					"memberDate": "2020-08-05",
+					"memberScore": 1,
+					"verifiedBy": "chesamo"
+				}
+			]
+		}
+	]
+}

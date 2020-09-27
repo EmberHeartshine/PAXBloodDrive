@@ -1,0 +1,95 @@
+body{
+	text-align: center;
+	background-color: #2C2F33;
+	padding-top: 5px;
+	padding-bottom: 0px;
+}
+label, tr, p{
+	font: 1em sans-serif;
+	color: #FFF;
+	text-shadow: 2px 2px 2px #111;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	line-height: 1.2;
+	transition-duration: 0.25s;
+}
+h1{
+	font: bold 2em sans-serif;
+	color: #FFF;
+	text-shadow: 3px 3px 4px #111;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+h2{
+	font: bold 1.2em sans-serif;
+	color: #FFF;
+	text-shadow: 3px 3px 4px #111;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+a{
+	color: #99AAB5;
+}
+select{
+	background-color: Transparent;
+	border-radius: 3px;
+	border: 1px solid #718792;
+	box-shadow: 2px 2px 4px #111;;
+	color: #FFF;
+	font: normal 1em sans-serif;
+	padding: 1px;
+	text-align: center;
+	text-shadow: 1px 1px 2px #000;
+	transition-duration: 0.25s;
+}
+option{
+	background-color: #2C2F33;
+	color:#FFF;
+	font: normal 1em sans-serif;
+	text-shadow: 1px 1px 2px #000;
+}
+table{
+	width: 100%;
+	margin: 0 auto;
+}
+td, th{
+	text-align: center;
+	line-height: 3em;
+	width: 25%;
+	max-width: 0;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding-left: 3px;
+	padding-right: 3px;
+	border-radius: 3px;
+	border: 1px solid #718792;
+	box-shadow: 2px 2px 4px #111;
+}
+th{
+	font-weight: bold;
+	cursor: pointer;
+}
+tr{
+	text-align: center;
+	vertical-align: center;
+}
+select:focus{
+	outline: 0 !important;
+}
+tr:hover, select:hover{
+	background-color: #13191c;
+}
+#contentBox{
+	max-width: 90%;
+	width: 760px;
+	margin: 0 auto;
+}
+#footer{
+	margin-top: 10px;
+	font-size: 0.5em;
+	font-style: italic;
+}
+#teamList{
+	width: 100%;
+}

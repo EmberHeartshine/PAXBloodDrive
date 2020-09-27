@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<title>RedHeart Requires JavaScript Enabled to Function</title>
+		<link rel="stylesheet" type="text/css" href="redHeart.css">
+		<link rel="stylesheet" type="text/css" href="overrides.css">
+		<script src="redHeart.js"></script>
+		<link rel="icon" type="image/png" href="img/rhFavicon-16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="img/rhFavicon-32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="img/rhFavicon-192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="img/rhFavicon-512.png" sizes="512x512">
+	</head>
+	<body onload="rhInit();">
+		<h1 id="pageHeader"></h1>
+		<label for="teamDrop">Show Team:</label>
+		<select id="teamDrop" onchange="showTeam(this.value);">
+		</select>
+		<h2 id="teamTitle"></h2>
+		<div id="contentBox">
+			<table id="teamList"></table>
+		</div>
+		<p id="footer">Powered by <a href="https://github.com/EmberHeartshine/RedHeart">RedHeart</a>.</div>
+	</body>
+</html>
+
+
+
